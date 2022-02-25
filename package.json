@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenhongquang2002/NodeJS-Blog.git"
+  },
+  "keywords": [
+    "q5",
+    "blog",
+    "q5",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "sondn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenhongquang2002/NodeJS-Blog/issues"
+  },
+  "homepage": "https://github.com/nguyenhongquang2002/NodeJS-Blog#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
